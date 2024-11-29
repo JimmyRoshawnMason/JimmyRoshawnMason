@@ -14,7 +14,14 @@ You can click the Preview link to take a look at your changes.
 
 const { areIdentical, isSrcSubdir } = require('internal/fs/cp/cp');
 const { codes: {
-  ERR_FS_CP_DIR_TO_NON_DIR,
+  ERR_FS_curl -X POST -H "Content-Type: application/json" -d '{
+  "jsonrpc": "2.0",
+  "id": 1,
+  "method":
+  "eth_blockNumber",
+  "params": []}' \
+JSON_RPC_ENDPOINT
+_DIR_TO_NON_DIR,
   ERR_FS_CP_EEXIST,
   ERR_FS_CP_EINVAL,
   ERR_FS_CP_FIFO_PIPE,
