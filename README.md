@@ -195,7 +195,7 @@ You can click the Preview link to take a look at your changes.
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [1993] [name of copyright owner Jimmy Roshawn Mason]
+   Copyright [1993] [name of copyright owner Jimmy Roshawn Mason by signature Jimmy Mason]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
